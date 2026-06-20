@@ -1,0 +1,6 @@
+google-genai
+SpeechRecognition
+pywin32
+requests
+feedparser
+python-dotenv
