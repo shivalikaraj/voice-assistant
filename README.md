@@ -7,8 +7,6 @@
 
 A Python-based voice-controlled assistant that uses speech recognition, text-to-speech, APIs, and Gemini AI to perform everyday tasks like weather updates, news reading, note-taking, music playback, and intelligent responses.
 
----
-
 ## ✨ Features
 - 🎤 Voice command recognition
 - 🌦️ Live weather updates (OpenWeather API)
@@ -20,8 +18,6 @@ A Python-based voice-controlled assistant that uses speech recognition, text-to-
 - 🤖 AI-powered fallback responses (Gemini AI)
 - 🗣️ Text-to-speech responses
 
----
-
 ## 🛠️ Tech Stack
 - Python 3
 - SpeechRecognition
@@ -30,10 +26,8 @@ A Python-based voice-controlled assistant that uses speech recognition, text-to-
 - feedparser
 - Google Gemini AI API
 
----
-
 ## 📁 Project Structure
-
+```text
 voice-assistant/
 │
 ├── main.py
@@ -42,8 +36,7 @@ voice-assistant/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
-
----
+```
 
 ## 🚀 How to Run
 
@@ -70,8 +63,6 @@ GEMINI_API_KEY=your_key_here
 python main.py
 ```
 
----
-
 ## 🎯 Example Commands
 - “Alexa, what’s the time?”
 - “Open YouTube”
@@ -82,28 +73,18 @@ python main.py
 - “News”
 - “What is AI?”
 
----
-
 ## 👨‍💻 Author
 
 Built by [Shivalika Raj](https://github.com/shivalikaraj)
 
----
-
 ## ⭐ Show your support
-
 If you like this project, consider giving it a ⭐ on GitHub!
 
----
-
-## 🧠 Why this project matters
-
+## 🧠 Why this project matters?
 This project demonstrates:
 
-Speech processing
-API integration
-AI integration
-Real-time system design
-Automation using Python
-
----
+- Speech processing
+- API integration
+- AI integration
+- Real-time system design
+- Automation using Python
