@@ -80,7 +80,7 @@ Built by [Shivalika Raj](https://github.com/shivalikaraj)
 ## ⭐ Show your support
 If you like this project, consider giving it a ⭐ on GitHub!
 
-## 🧠 Why this project matters?
+## 🧠 Why this project matters
 This project demonstrates:
 
 - Speech processing
