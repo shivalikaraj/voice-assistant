@@ -77,6 +77,10 @@ python main.py
 
 Built by [Shivalika Raj](https://github.com/shivalikaraj)
 
+## 📄 License
+
+This project is licensed under the MIT License.
+
 ## ⭐ Show your support
 If you like this project, consider giving it a ⭐ on GitHub!
 
