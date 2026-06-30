@@ -74,12 +74,10 @@ python main.py
 - “What is AI?”
 
 ## 👨‍💻 Author
-
 Built by [Shivalika Raj](https://github.com/shivalikaraj)
 
 ## 📄 License
-
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## ⭐ Show your support
 If you like this project, consider giving it a ⭐ on GitHub!
